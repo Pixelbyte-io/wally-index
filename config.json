@@ -1,4 +1,4 @@
 {
-  "api": "http://localhost",
+  "api": "https://wally.pixelbyte.games/",
   "fallback_registries": ["https://github.com/UpliftGames/wally-index"]
 }
